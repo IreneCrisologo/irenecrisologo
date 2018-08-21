@@ -1,2 +1,0 @@
-(function(){try{window['readcube-mobile-supported']=false;window['readcube-request-ua']='Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Zotero/4.0.29.10';}catch(e){}
-var script=document.createElement('script');script.async=true;script.type='text/javascript';script.src='https://injections.readcube.com/wiley/epdf_linker.a4ede97d.js';document.getElementsByTagName('head').item(0).appendChild(script);})();
